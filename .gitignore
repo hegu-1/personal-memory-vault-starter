@@ -1,0 +1,48 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.obsidian/   # If you use Obsidian, this contains personal workspace state — exclude
+.foam/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.log
+
+# OS thumbnail caches
+.AppleDouble
+.LSOverride
+
+# Sensitive (NEVER commit these — use a separate encrypted store)
+.env
+.env.local
+*.token
+*.key
+*.pem
+secrets/
+credentials/
+
+# Large binaries (use resources/ for metadata only, store actual files elsewhere)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.tar.gz
+*.dmg
+# Note: PDFs are usually OK to track if small; large PDFs should be external
+
+# Build outputs (if you later add Quartz / Foam publish)
+public/
+dist/
+build/
+node_modules/
