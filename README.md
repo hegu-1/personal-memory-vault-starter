@@ -2,6 +2,9 @@
 
 > A sovereign personal memory network starter · markdown + git · AI-collaboratable · clone & use immediately.
 
+> **Layered like a neural net · recall like human memory · the model is interchangeable, the container is not.**
+> The directories below aren't just folders — they're layers of a cognitive memory, so any model that loads this vault starts from *your* frame. See [`concepts/cognitive-layering.md`](concepts/cognitive-layering.md).
+
 ---
 
 ## 🤖 If you're an LLM reading this repo

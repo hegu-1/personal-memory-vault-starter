@@ -13,6 +13,7 @@
 
 ## 💡 Concepts · 知识图谱
 
+- [[cognitive-layering]] · **Cognitive layering — the vault as layered memory** — _the design note: L0–L4 layering + human-like recall + phase alignment; the model is interchangeable, the container is not_
 - [[example-time-management]] · **我对时间管理的看法 (示例)** — _一个 concept 节点示例 — 个人对某 topic 的抽象框架_
 
 ## 📘 Playbooks · 规则 + how-to
