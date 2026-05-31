@@ -144,7 +144,7 @@ If the user pastes something sensitive, flag it: "This looks like a credential â
 
 Don't read the entire vault. Read in this order:
 
-1. `people/<self-slug>.md` (often `quinn.md` or `naze.md` or the user's chosen identity)
+1. `people/<self-slug>.md` (e.g. `self.md`, or the user's chosen identity slug)
 2. `INDEX.md` for a high-level overview of node count by type
 3. The 3 most recently updated `projects/` (what they're actively doing)
 4. The 3 most recently updated `tracelets/` (recent calibrations / decisions)
