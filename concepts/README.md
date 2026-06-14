@@ -1,25 +1,25 @@
 # concepts/
 
-存抽象概念 / 框架 / 思想体系 / 你信的某种道理。
+Abstract concepts / frameworks / systems of thought / principles you hold.
 
-## 什么时候用
+## When to use
 
-- 你有一套对某个 topic 的看法
-- 某个理论 / 框架是你思考的 anchor
-- 一个术语 / 概念需要被反复引用
+- You have a worked-out view on some topic
+- A theory or framework is an anchor for your thinking
+- A term or concept you reference repeatedly
 
-## 命名约定
+## Naming convention
 
-- `<concept-name>.md`,kebab-case
-- 例:`time-management.md` / `my-view-of-ai.md` / `nepm.md`
+- `<concept-name>.md`, kebab-case
+- e.g. `time-management.md` / `my-view-of-ai.md` / `nepm.md`
 
-## 跟 playbooks/ 区别
+## How this differs from playbooks/
 
-- **concept**:抽象的看法 / 框架 / 理论
-- **playbook**:具体的操作 / 规则 / how-to
+- **concept**: an abstract view / framework / theory
+- **playbook**: concrete steps / rules / how-to
 
-如果一个 file 既描述思想又给操作步骤,默认按"主要 framing"分:抽象主导 → concepts,操作主导 → playbooks。
+If a file both describes a way of thinking and gives operating steps, file it by its primary framing: abstraction-led → concepts, action-led → playbooks.
 
-## 例子
+## Examples
 
-见 `example-time-management.md`。
+See `example-time-management.md`.
