@@ -1,49 +1,49 @@
 ---
 type: person
-title: Alice (示例同事)
+title: Alice (example colleague)
 slug: example-colleague
 created: 2026-05-26
 updated: 2026-05-26
 status: active
 visibility: private
-description: 一个 person 节点示例 — 你常协作的同事
+description: A person node example — a colleague you work with often
 related:
   - "[[example-current-project]]"
   - "[[example-self]]"
 tags: [colleague, example]
 ---
 
-# Alice (示例同事)
+# Alice (example colleague)
 
-## 基本
-- 全名:李某某
-- 部门:产品
-- 加入:2024 年
-- 我跟她的关系:对接最多的同事
+## Basics
+- Full name: Alice [last name]
+- Team: Product
+- Joined: 2024
+- My relationship with her: the colleague I coordinate with most
 
-## 沟通风格
-- 喜欢直接说结论,不绕弯
-- 早上 10 点前慢回消息
-- 周二最闲,周五最忙
+## Communication style
+- Likes the conclusion stated directly, no preamble
+- Slow to reply before 10am
+- Most free on Tuesdays, busiest on Fridays
 
-## 一起做过
+## Worked together on
 - [[example-current-project]]
 
-## 个性 / 偏好
-- 喜欢美式咖啡
-- 经常分享读到的好文章
+## Personality / preferences
+- Likes americano coffee
+- Often shares good articles she's read
 
-## 注意点
-- 上次提到想跳槽 (私下信息,别外传)
+## Things to watch
+- Mentioned recently she's thinking of switching jobs (private — don't pass it on)
 
-## 最近聊过
-- 2026-04-15 聊职业规划
-- 2026-03-20 一起吃饭聊家里事
+## Recent conversations
+- 2026-04-15 talked about career planning
+- 2026-03-20 had a meal, talked about family
 
-## 相关
-- 部门情况:[[example-team]] (待写)
-- 上级:[[example-manager]] (待写)
+## Related
+- Team context: [[example-team]] (to be written)
+- Her manager: [[example-manager]] (to be written)
 
 ---
 
-_示例文件。删除或改写_
+_Example file. Delete or rewrite._
