@@ -1,23 +1,23 @@
 # resources/
 
-存外部资源的 metadata — PDF / 视频 / 链接 / 工具网站。
+Metadata for external resources — PDFs / videos / links / tool sites.
 
-## 重要原则
+## Key principle
 
-**不存大 binary** — 这是 git repo,不要塞视频 / 大 PDF 进来。
-- 文件实际放本地 / 云盘 / 外部 URL
-- 在 vault 只存 metadata + link
+**Don't store large binaries** — this is a git repo, don't dump videos or big PDFs in here.
+- Keep the actual file locally / in cloud storage / at an external URL
+- Store only metadata + a link in the vault
 
-## 子目录
+## Subdirectories
 
-- `pdfs/` — 收藏的 PDF metadata
-- `videos/` — 视频 metadata
-- `external-links.md` — 网页链接 / 工具网站
+- `pdfs/` — metadata for saved PDFs
+- `videos/` — metadata for videos
+- `external-links.md` — web links / tool sites
 
-## 命名约定
+## Naming convention
 
-- 描述性 slug:`good-articles-on-time-management.md` / `claude-code-launch-talk.md`
+- Descriptive slug: `good-articles-on-time-management.md` / `claude-code-launch-talk.md`
 
-## 例子
+## Examples
 
-见 `external-links.md`。
+See `external-links.md`.
