@@ -1,53 +1,53 @@
 ---
 type: event
-title: 朋友推荐我去参加某活动 (示例)
+title: A friend recommended a workshop to me (example)
 slug: example-event
 created: 2026-05-26
 updated: 2026-05-26
 status: active
 visibility: private
-description: 一个 event 节点示例 — 关键外部事件(完全虚构,演示格式)
+description: An event node example — a key external event (fully fictional, for format demonstration)
 related:
   - "[[example-self]]"
 tags: [milestone, example]
 ---
 
-# 2026-05-XX 朋友推荐我去参加写作工作坊
+# 2026-05-XX a friend recommended a 4-week writing workshop
 
-## 事件
+## Event
 
-某朋友在群里推荐了一个为期 4 周的写作工作坊,问我要不要一起报名。报名 deadline 还有 3 天。
+A friend recommended a 4-week writing workshop in a group chat and asked if I wanted to sign up together. The registration deadline is 3 days away.
 
-(以下是完全虚构示例 — 用你自己的真实事件替换)
+(Everything below is a fully fictional example — replace it with your own real event.)
 
-## 关键参数
+## Key parameters
 
-- 时间:每周日下午 2-5 点,持续 4 周
-- 地点:线上 + 周末一次线下
-- 费用:¥1200
-- 形式:8-10 人小组,每人交一个写作 project
+- Time: Sundays 2–5pm, for 4 weeks
+- Location: online + one in-person weekend session
+- Cost: ¥1200
+- Format: groups of 8–10, each person submits one writing project
 
-## 跟前情上下文
+## Prior context
 
-- 我最近在想要不要开始写作,但没找到 trigger
-- 这个朋友之前推荐的事我大多有 follow up,他眼光通常靠谱
-- 我下季度时间相对空,4 周强度可以承受
+- I've been thinking about starting to write but hadn't found a trigger
+- I've usually followed up on this friend's recommendations; their taste is generally reliable
+- My schedule next quarter is relatively open, so 4 weeks of intensity is manageable
 
-## 我的反应
+## My reaction
 
-- 第一感:有点心动,但担心承诺感
-- 第二感:¥1200 不大,如果坚持 4 周不亏
-- 警惕点:我之前类似课程报了不去,要 honest 评估自己
+- First instinct: a little tempted, but worried about the commitment
+- Second instinct: ¥1200 isn't much; if I stick with all 4 weeks it's worth it
+- Caution: I've signed up for similar courses before and not gone — be honest in assessing myself
 
-## 后续 / 决定
+## Follow-up / decision
 
-- [待填:你最后选了什么]
-- 如果去:学到什么 / 不去:为什么放弃 / 推迟:什么 trigger 会让你启动
+- [to fill in: what you finally chose]
+- If you go: what you learned / if you skip: why you passed / if you defer: what trigger would start it
 
-## 相关
+## Related
 
-- 触发的想法:[[example-time-management]] 关于学新东西的时间分配
+- The idea it triggered: [[example-time-management]], on allocating time to learning new things
 
 ---
 
-_这是完全虚构的示例。换成你真实的关键事件,删除本文件即可。_
+_This is a fully fictional example. Replace it with a real key event of yours, then delete this file._
