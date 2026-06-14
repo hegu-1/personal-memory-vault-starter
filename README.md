@@ -1,5 +1,11 @@
 # personal-memory-vault-starter
 
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?logo=github&logoColor=white)](https://github.com/hegu-1/personal-memory-vault-starter/generate)
+![Format: Markdown](https://img.shields.io/badge/format-markdown-000000?logo=markdown)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/hegu-1/personal-memory-vault-starter?style=social)](https://github.com/hegu-1/personal-memory-vault-starter/stargazers)
+
 > A sovereign personal memory network starter · markdown + git · AI-collaboratable · clone & use immediately.
 
 > **Layered like a neural net · recall like human memory · the model is interchangeable, the container is not.**
@@ -133,6 +139,12 @@ Wiki-link `[[slug]]` is **plain text** — works in any markdown parser. No Obsi
 
 ---
 
+## Contributing
+
+Improvements to the template are welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md) and the [`CHANGELOG.md`](CHANGELOG.md). Please keep example content fully fictional and generic.
+
+---
+
 ## License
 
 CC0 1.0 — public domain. Clone, fork, modify, redistribute, commercialize. No attribution required (though appreciated).
@@ -149,3 +161,7 @@ Both are released separately as PDFs you can find with this repo.
 ---
 
 _Your memory. Your network. Your sovereignty._
+
+---
+
+<sub>Created by [naze](https://github.com/hegu-1) · released to the public domain under CC0 1.0.</sub>
