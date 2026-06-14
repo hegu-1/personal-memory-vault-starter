@@ -9,6 +9,7 @@ visibility: private
 description: A playbook example — reusable operating steps
 related:
   - "[[example-time-management]]"
+  - "[[example-colleague]]"
 tags: [meeting, workflow, example]
 ---
 
@@ -54,6 +55,7 @@ For any meeting longer than 30 minutes, run this checklist.
 ## Related
 
 - Pairs with the time windows in [[example-time-management]]: put deep meetings in the morning
+- Most of my meetings are with [[example-colleague]]
 
 ---
 
