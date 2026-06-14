@@ -1,25 +1,25 @@
 # events/
 
-存影响你 / 重要的外部事件 — inbound 机会 / 关键决策 / 转折点 / 人生大事。
+Significant external events that affect you — inbound opportunities / key decisions / turning points / life events.
 
-## 什么时候用
+## When to use
 
-- 一件事**之后会被反复 reference**(比如"我从那次之后...")
-- inbound:别人主动找你的关键节点(招聘 / 投资 / 合作)
-- 关键 decision point(换工作 / 搬家 / 关系大事)
+- Something you'll **reference repeatedly afterward** (e.g. "ever since that happened...")
+- inbound: a key moment when someone reached out to you (recruiting / investment / partnership)
+- A key decision point (changing jobs / moving / a major relationship event)
 
-## 命名约定
+## Naming convention
 
 - `YYYY-MM-DD-<event-slug>.md`
-- 例:`2024-09-01-dad-got-sick.md` / `2026-05-25-investor-inbound.md`
+- e.g. `2024-09-01-dad-got-sick.md` / `2026-05-25-investor-inbound.md`
 
-## 跟 tracelet 区别
+## How this differs from tracelets
 
-- **event**:外部发生的事(别人做的 / 客观 happen 的)
-- **tracelet**:你的 reframe 时刻(认知 / 决定层面的)
+- **event**: something external that happened (done by someone else / objectively occurred)
+- **tracelet**: your moment of reframing (a cognitive / decision-level shift)
 
-有时候 event + tracelet 配对:event 是触发,tracelet 是 reframe。
+Sometimes an event + tracelet pair up: the event is the trigger, the tracelet is the reframe.
 
-## 例子
+## Examples
 
-见 `example-event.md`。
+See `example-event.md`.
