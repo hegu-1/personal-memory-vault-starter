@@ -1,33 +1,33 @@
 ---
 type: resource
-title: 收藏的外部链接 (示例)
+title: Saved external links (example)
 slug: external-links
 created: 2026-05-26
 updated: 2026-05-26
 status: active
 visibility: private
-description: 一个 resource 节点示例 — 链接 / 工具网站收藏
+description: A resource node example — bookmarks for links / tool sites
 tags: [bookmarks, example]
 ---
 
-# 收藏的链接
+# Saved links
 
-## 工具 / 网站
+## Tools / sites
 
-- [Obsidian](https://obsidian.md) — markdown 笔记客户端,适合 vault 协作
-- [Quartz](https://quartz.jzhao.xyz) — 把 markdown vault 发布成静态网站
-- [GitHub](https://github.com) — git 托管,本 vault 的家
+- [Obsidian](https://obsidian.md) — markdown note client, good for working on a vault
+- [Quartz](https://quartz.jzhao.xyz) — publish a markdown vault as a static site
+- [GitHub](https://github.com) — git hosting, home of this vault
 
-## 好文章
+## Good articles
 
-- [(链接)](https://example.com) — _一句话为什么收藏_
+- [(link)](https://example.com) — _one line on why you saved it_
 - ...
 
-## 思想资源
+## Thinking resources
 
-- 书:_某书_ — 一句话核心
-- 播客:_某播客_ — 哪一集最受用
+- Book: *some book* — one-line core idea
+- Podcast: *some podcast* — which episode was most useful
 
 ---
 
-_示例文件 — 删除或改写_
+_Example file — delete or rewrite._
