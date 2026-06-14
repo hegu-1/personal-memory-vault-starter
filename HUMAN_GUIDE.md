@@ -1,4 +1,6 @@
-# Human Guide — 5-minute orientation
+# Human Guide — 5-minute orientation (中文)
+
+> **English readers:** this guide is the Chinese beginner on-ramp. For the English overview see [`README.md`](README.md); for the LLM collaboration spec see [`LLM_GUIDE.md`](LLM_GUIDE.md).
 
 > 给人类用户的极简上手指南。如果你想要详细版,看配套 PDF《个人记忆仓库 · 小白入门指南》。
 
