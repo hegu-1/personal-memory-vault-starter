@@ -1,22 +1,22 @@
 # projects/
 
-存进行中 / 长期跟进的项目 / 任务。
+Active / long-running projects and tasks you're tracking.
 
-## 什么时候用
+## When to use
 
-- 跨多日 / 多周的事情
-- 涉及多个 sub-task 或者 milestone
-- 想 track 进度
+- Something that spans multiple days or weeks
+- Involves multiple sub-tasks or milestones
+- You want to track progress
 
-## 命名约定
+## Naming convention
 
 - `<project-name>.md`
-- 例:`learn-japanese.md` / `side-business-handmade-soap.md` / `book-draft-novel.md`
+- e.g. `learn-japanese.md` / `side-business-handmade-soap.md` / `book-draft-novel.md`
 
-## 建议结构
+## Suggested structure
 
-- Goal / Milestone / Status / Stakeholders / Resources
+- Goal / Milestones / Status / Stakeholders / Resources
 
-## 例子
+## Examples
 
-见 `example-current-project.md`。
+See `example-current-project.md`.
