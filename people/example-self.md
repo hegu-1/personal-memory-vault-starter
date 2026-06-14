@@ -9,6 +9,8 @@ visibility: private
 description: Example of a "self" person node — usually your very first node
 related:
   - "[[example-current-project]]"
+  - "[[example-time-management]]"
+  - "[[example-claude]]"
 tags: [self, example]
 ---
 
@@ -44,6 +46,8 @@ tags: [self, example]
 ## Related
 - Active projects: [[example-current-project]]
 - People I work with: [[example-colleague]]
+- How I think about time: [[example-time-management]]
+- AI I collaborate with: [[example-claude]]
 
 ---
 
