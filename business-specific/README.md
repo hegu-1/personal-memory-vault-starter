@@ -1,22 +1,22 @@
 # business-specific/
 
-存项目 / 业务专属细节 — **默认不自动 load**,按需读取。
+Project- / business-scoped details — **not auto-loaded by default**, read on demand.
 
-## 什么时候用
+## When to use
 
-- 某个 detail 跟特定项目 / 公司 / 客户 deeply 绑定
-- 不适合作通用 playbook(不可复用到其他场景)
-- AI 协作时只在该 context 下需要 load
+- A detail that's deeply tied to one specific project / company / client
+- Not suitable as a general playbook (not reusable in other contexts)
+- Something an AI collaborator should only load within that context
 
-## 区分于 playbooks/
+## How this differs from playbooks/
 
-- **playbook**:通用规则,跨项目复用
-- **business-specific**:某项目独有,换项目不适用
+- **playbook**: a general rule, reusable across projects
+- **business-specific**: unique to one project, doesn't apply elsewhere
 
-## LLM 协作约定
+## LLM collaboration convention
 
-`LLM_GUIDE.md` 第 10 条:**Don't auto-load business-specific** — 默认不读,只在用户当前 task 明确 relate 时才读。
+`LLM_GUIDE.md` rule 10: **Don't auto-load business-specific** — don't read it by default, only when the user's current task explicitly relates to it.
 
-## 例子
+## Examples
 
-见 `example-vendor-relations.md`。
+See `example-vendor-relations.md`.
