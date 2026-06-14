@@ -20,7 +20,7 @@ Read [`LLM_GUIDE.md`](LLM_GUIDE.md) first. It tells you:
 
 ## 👤 If you're a human just starting out
 
-Read [`HUMAN_GUIDE.md`](HUMAN_GUIDE.md) for a 5-minute orientation. Or jump straight in:
+Read [`HUMAN_GUIDE.md`](HUMAN_GUIDE.md) for a 5-minute orientation (**written in Chinese** — the beginner on-ramp). Everything else in this repo is in English. Or jump straight in:
 
 1. Pick a node type that fits what you want to record (see directory list below)
 2. Open the matching directory's `README.md` to see what goes there
@@ -39,7 +39,7 @@ For a comprehensive beginner guide (Chinese), see the companion PDF: _个人记�
 personal-memory-vault-starter/
 ├── README.md           ← this file (entry for both humans and LLMs)
 ├── LLM_GUIDE.md        ← spec for LLMs collaborating on this vault
-├── HUMAN_GUIDE.md      ← 5-min orientation for humans
+├── HUMAN_GUIDE.md      ← 5-min orientation for humans (Chinese)
 ├── INDEX.md            ← network entry point (list all nodes once you have them)
 ├── LICENSE             ← CC0 1.0 (do anything with this)
 ├── .gitignore
