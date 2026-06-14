@@ -41,8 +41,10 @@ tags: [colleague, example]
 - 2026-03-20 had a meal, talked about family
 
 ## Related
-- Team context: [[example-team]] (to be written)
-- Her manager: [[example-manager]] (to be written)
+- Shared project: [[example-current-project]]
+- Me: [[example-self]]
+
+_(As your vault grows you'd add nodes like a `team` or `manager` person node and link them here — a wiki-link to a node that doesn't exist yet is a valid placeholder.)_
 
 ---
 
