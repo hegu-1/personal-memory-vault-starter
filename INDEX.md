@@ -6,44 +6,44 @@
 
 ---
 
-## 👤 People · 关系网
+## 👤 People · relationship graph
 
-- [[example-self]] · **我自己 (示例)** — _关于"我自己"这个 person 节点的示例 — 通常是你的第一个节点_
-- [[example-colleague]] · **Alice (示例同事)** — _一个 person 节点示例 — 你常协作的同事_
+- [[example-self]] · **Me (example)** — _example of a "self" person node — usually your very first node_
+- [[example-colleague]] · **Alice (example colleague)** — _a person node example — a colleague you work with often_
 
-## 💡 Concepts · 知识图谱
+## 💡 Concepts · knowledge map
 
 - [[cognitive-layering]] · **Cognitive layering — the vault as layered memory** — _the design note: L0–L4 layering + human-like recall + phase alignment; the model is interchangeable, the container is not_
-- [[example-time-management]] · **我对时间管理的看法 (示例)** — _一个 concept 节点示例 — 个人对某 topic 的抽象框架_
+- [[example-time-management]] · **My view on time management (example)** — _a concept node example — your abstract framework on some topic_
 
-## 📘 Playbooks · 规则 + how-to
+## 📘 Playbooks · rules + how-to
 
-- [[example-meeting-prep]] · **我准备一场会议的步骤 (示例)** — _一个 playbook 示例 — 可复用的操作步骤_
-- [[example-boundary]] · **不替别人替自己做决定 (示例边界 playbook)** — _一个边界类 playbook 示例_
+- [[example-meeting-prep]] · **How I prepare for a meeting (example)** — _a playbook example — reusable operating steps_
+- [[example-boundary]] · **Don't make other people's decisions for them (example boundary playbook)** — _a boundary-type playbook example_
 
-## 🚀 Projects · 进行中
+## 🚀 Projects · in progress
 
-- [[example-current-project]] · **学日语 N3 (示例项目)** — _一个 project 节点示例 — 进行中的长期项目_
+- [[example-current-project]] · **Learning Japanese N3 (example project)** — _a project node example — an ongoing long-term project_
 
-## 🤖 AI Agents · 协作方
+## 🤖 AI Agents · collaborators
 
-- [[example-claude]] · **Claude (示例 AI agent 节点)** — _一个 ai-agent 节点示例 — 描述你协作的某个 LLM_
+- [[example-claude]] · **Claude (example AI agent node)** — _an ai-agent node example — describing an LLM you collaborate with_
 
-## 🔍 Tracelets · 单个 calibration 时刻
+## 🔍 Tracelets · single calibration moments
 
-- [[example-tracelet]] · **朋友指出我对她有偏见 (示例 tracelet)** — _一个 tracelet 节点示例 — 单个校准时刻,四元结构_
+- [[example-tracelet]] · **A friend pointed out my bias toward her (example tracelet)** — _a tracelet node example — a single calibration moment, four-part structure_
 
-## 📅 Events · 关键事件
+## 📅 Events · key events
 
-- [[example-event]] · **2026-05-25 收到第一个外部 inbound (示例)** — _一个 event 节点示例 — 关键外部事件_
+- [[example-event]] · **2026-05-XX a friend recommended a workshop (example)** — _an event node example — a key external event_
 
-## 📎 Resources · 外部资源
+## 📎 Resources · external resources
 
-- [[external-links]] · **收藏的外部链接 (示例)** — _一个 resource 节点示例 — 链接 / 工具网站收藏_
+- [[external-links]] · **Saved external links (example)** — _a resource node example — bookmarks for links / tools_
 
-## 🔧 Business-Specific · 业务专属
+## 🔧 Business-Specific · project-scoped
 
-- [[example-vendor-relations]] · **跟某供应商的合作历史 (示例)** — _一个 business-specific 节点示例 — 跟特定供应商的协作细节_
+- [[example-vendor-relations]] · **Working history with a vendor (example)** — _a business-specific node example — collaboration details tied to one external partner_
 
 ---
 
