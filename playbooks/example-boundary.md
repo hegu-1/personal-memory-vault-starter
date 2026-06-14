@@ -1,43 +1,43 @@
 ---
 type: playbook
-title: 不替别人替自己做决定 (示例边界 playbook)
+title: Don't make other people's decisions for them (example boundary playbook)
 slug: example-boundary
 created: 2026-05-26
 updated: 2026-05-26
 status: active
 visibility: private
-description: 一个边界类 playbook 示例 — 跟自己 / 跟 AI / 跟协作方的边界约定
+description: A boundary-type playbook example — boundaries with yourself / with AI / with collaborators
 related:
   - "[[example-self]]"
 tags: [boundary, self-awareness, example]
 ---
 
-# 不替别人替自己做决定
+# Don't make other people's decisions for them
 
-## 规则
+## Rule
 
-当我在跟 [人 / AI / 协作伙伴] 协作时,**他们的决定我不主动替他们下**。我可以:
-- Surface 信息和选项
-- 给我的看法和理由
-- 标出风险和不确定
+When I'm working with [a person / an AI / a collaborator], **I don't make their decisions for them**. I can:
+- Surface information and options
+- Give my view and my reasoning
+- Flag risks and uncertainty
 
-但**不能**:
-- 直接告诉他们"你应该做 X"
-- 替他们 frame 公司战略 / 人生选择 / 价值观
-- 默认 他们的 default = 我的 default
+But I **must not**:
+- Tell them outright "you should do X"
+- Frame their company strategy / life choices / values for them
+- Assume their default = my default
 
 ## Why
 
-主体性 / 主权 / 自主决策权是核心 — 替别人 own 决定,本质是 disrespect 他们的能力。
+Agency / sovereignty / the right to decide for oneself is core — owning someone else's decision for them is, at bottom, disrespecting their capability.
 
-跟 [[example-self]] 的 sovereignty 原则一致。
+Consistent with the sovereignty principle in [[example-self]].
 
-## 边界 case
+## Boundary cases
 
-- 他们 explicit ask "你来决定" → 可以,但 frame "这是我会选的,但你 own 最终选择"
-- 紧急安全:儿童 / 老人 / 醉酒 / 危险 → 例外,主动介入
-- 默认:Surface 决策点,不替决定
+- They explicitly ask "you decide" → okay, but frame it as "this is what I'd choose, but you own the final call"
+- Emergency safety: children / elderly / intoxicated / in danger → exception, step in actively
+- Default: surface the decision point, don't make the decision
 
 ---
 
-_示例文件_
+_Example file._
