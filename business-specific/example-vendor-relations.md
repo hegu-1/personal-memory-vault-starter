@@ -1,51 +1,51 @@
 ---
 type: business-specific
-title: 跟某印刷厂的合作历史 (示例)
+title: Working history with a print shop (example)
 slug: example-vendor-relations
 created: 2026-05-26
 updated: 2026-05-26
 status: active
 visibility: private
-description: 一个 business-specific 节点示例 — 跟特定外部协作方的细节(完全虚构,演示格式)
+description: A business-specific node example — details with one specific external partner (fully fictional, for format demonstration)
 tags: [vendor, example]
 ---
 
-# 跟某印刷厂的合作历史
+# Working history with a print shop
 
-(完全虚构示例 — 用你真实的特定协作关系替换)
+(Fully fictional example — replace with a real specific relationship of yours.)
 
-## 背景
+## Background
 
-- 协作方:某本地印刷厂(假名"星图印刷",虚构)
-- 角色:帮我印名片 / 海报 / 小批量画册
-- 合作开始:某个月
+- Partner: a local print shop (pseudonym "Star-Map Printing", fictional)
+- Role: prints my business cards / posters / small-batch art books
+- Started working together: some month
 
-## 关键联系人
+## Key contacts
 
-- 业务对接:[联系人姓名](联系方式)
-- 印刷师傅:[联系人姓名](微信)
+- Account contact: [contact name] (contact method)
+- Print technician: [contact name] (messaging app)
 
-## 合作历史
+## Working history
 
-- 2026-XX:第一次印名片 200 张,质量 OK 价钱合理
-- 2026-XX:印一批画册 50 本,色差比预期大 → 重印一次
-- 2026-XX:常规续单 名片 + 标签
+- 2026-XX: first run, 200 business cards, quality OK and price reasonable
+- 2026-XX: a batch of 50 art books, color shift larger than expected → reprinted once
+- 2026-XX: routine repeat order, business cards + labels
 
-## 已知 issue
+## Known issues
 
-- 周末不接单,周一才回消息
-- 急单需要至少提前 3 天
-- 大批量(>500 件)需要预付 50%
+- Doesn't take orders on weekends; replies only on Monday
+- Rush jobs need at least 3 days' lead time
+- Large batches (>500 units) require 50% prepayment
 
-## 注意
+## Notes
 
-- 这条只对**该协作相关 task** load,不进通用 playbook
-- 业务专属节点 — 不是通用规则
+- Load this only for **tasks related to this partnership**, not into a general playbook
+- This is a business-specific node — not a general rule
 
-## 相关
+## Related
 
-- 业务项目:[[example-current-project]]
+- Business project: [[example-current-project]]
 
 ---
 
-_完全虚构示例。换成你真实的某个外部协作方(供应商 / 服务商 / 顾问 / 等),删除本文件即可。_
+_Fully fictional example. Replace with a real external partner of yours (supplier / service provider / consultant / etc.), then delete this file._
