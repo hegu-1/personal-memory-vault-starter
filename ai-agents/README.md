@@ -1,24 +1,24 @@
 # ai-agents/
 
-存你协作过的 AI 工具 — 每个 LLM / 模型一个节点。
+The AI tools you collaborate with — one node per LLM / model.
 
-## 什么时候用
+## When to use
 
-- 一个 AI 你**反复使用**(不是一次性的)
-- 想 track 它的 capability / boundary / 你跟它的协作 history
-- 想 share 给其他 AI:"这是 Claude / GPT,它擅长 X 不擅长 Y"
+- An AI you use repeatedly (not a one-off)
+- You want to track its capabilities / boundaries / your shared history with it
+- You want to tell other AIs: "this is Claude / GPT, it's good at X and weak at Y"
 
-## 命名约定
+## Naming convention
 
 - `<agent-name>.md`
-- 例:`claude.md` / `chatgpt.md` / `gemini.md` / `midjourney.md` / `codex.md`
+- e.g. `claude.md` / `chatgpt.md` / `gemini.md` / `midjourney.md` / `codex.md`
 
-## 建议字段
+## Suggested fields
 
-- 模型版本(claude-opus-4-7 等)
-- 能做 vs 不能做(从你实际协作经验总结)
-- 跟你的协作 history 重要时刻
+- Model version (e.g. claude-opus-4-x)
+- Can do vs. can't do (from your actual collaboration experience)
+- Key moments in your shared history
 
-## 例子
+## Examples
 
-见 `example-claude.md`。
+See `example-claude.md`.
