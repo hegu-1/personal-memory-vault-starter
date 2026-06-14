@@ -1,27 +1,27 @@
 # playbooks/
 
-存可复用的规则 / 操作步骤 / 协作约定 / how-to。
+Reusable rules / operating steps / collaboration conventions / how-tos.
 
-## 什么时候用
+## When to use
 
-- 你总结出"我在某种情况下应该这么做"
-- 某条规则会反复应用 — codify 一次,future 复用
-- 跟人协作的固定约定 / 边界
+- You've distilled "when I'm in situation X, I should do this"
+- A rule you'll apply over and over — codify it once, reuse it later
+- A fixed convention or boundary for working with someone
 
-## 命名约定
+## Naming convention
 
-- `<rule-or-howto>.md`,kebab-case
-- 例:`how-i-take-notes.md` / `meeting-prep.md` / `do-not-conflate-personal-and-work.md`
+- `<rule-or-howto>.md`, kebab-case
+- e.g. `how-i-take-notes.md` / `meeting-prep.md` / `do-not-conflate-personal-and-work.md`
 
-## 跟 concepts/ 区别
+## How this differs from concepts/
 
-- **concept**:抽象看法
-- **playbook**:具体操作 / 规则
+- **concept**: an abstract view
+- **playbook**: concrete steps / rules
 
-## Frontmatter 建议字段
+## Suggested frontmatter
 
-- `status` 特别重要:`active` / `archived` / `deprecated` — 旧规则不删,标 archived
+- `status` matters here especially: `active` / `archived` / `deprecated` — don't delete old rules, mark them archived.
 
-## 例子
+## Examples
 
-见 `example-meeting-prep.md` 和 `example-boundary.md`。
+See `example-meeting-prep.md` and `example-boundary.md`.
