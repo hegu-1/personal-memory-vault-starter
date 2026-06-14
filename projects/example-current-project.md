@@ -1,56 +1,56 @@
 ---
 type: project
-title: 学日语 N3 (示例项目)
+title: Learning Japanese N3 (example project)
 slug: example-current-project
 created: 2026-05-26
 updated: 2026-05-26
 status: active
 visibility: private
-description: 一个 project 节点示例 — 进行中的长期项目
+description: A project node example — an ongoing long-term project
 related:
   - "[[example-self]]"
   - "[[example-time-management]]"
 tags: [learning, japanese, example]
 ---
 
-# 学日语 N3
+# Learning Japanese N3
 
-## 目标
+## Goal
 
-- 2027 年 7 月通过 JLPT N3
-- 同时能看 anime 不看字幕(stretch goal)
+- Pass JLPT N3 by July 2027
+- Be able to watch anime without subtitles (stretch goal)
 
-## 里程碑
+## Milestones
 
-| 时间 | 目标 |
+| Date | Goal |
 |---|---|
-| 2026-08 | N5 模拟测过 |
-| 2026-12 | N4 模拟测过 |
-| 2027-04 | N3 真题刷过 1 套 |
-| 2027-07 | N3 正式考试 |
+| 2026-08 | Pass an N5 mock test |
+| 2026-12 | Pass an N4 mock test |
+| 2027-04 | Work through one full set of N3 past papers |
+| 2027-07 | Sit the official N3 exam |
 
-## 现状
+## Status
 
-- 进度:N5 教材学到 lesson 12 / 30
-- 每天 30 分钟 ANKI
-- 周末 1 小时听力
+- Progress: N5 textbook, lesson 12 / 30
+- 30 minutes of Anki daily
+- 1 hour of listening on weekends
 
-## 资源
+## Resources
 
-- 教材:《新标准日本语》
-- 听力:NHK Easy News
-- 单词:ANKI 自建 deck
+- Textbook: *Standard Japanese* (新标准日本语)
+- Listening: NHK Easy News
+- Vocabulary: self-built Anki deck
 
-## 风险 / 难点
+## Risks / hard parts
 
-- 工作忙时容易断 — 跟 [[example-time-management]] 时段冲突
-- 听力进步慢
+- Easy to drop when work gets busy — conflicts with the windows in [[example-time-management]]
+- Listening improves slowly
 
-## 下一步
+## Next steps
 
-- 周末报名 N5 公开模考
-- 找一个语言交换 partner
+- Sign up for a public N5 mock exam this weekend
+- Find a language-exchange partner
 
 ---
 
-_示例文件_
+_Example file._
