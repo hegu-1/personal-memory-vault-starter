@@ -1,19 +1,19 @@
 # people/
 
-存关系网节点 — 自己 + 每个重要的人一个 file。
+Relationship-graph nodes — one file for yourself + one for each person who matters.
 
-## 什么时候用
+## When to use
 
-- 你跟某人频繁打交道(同事 / 朋友 / 家人 / 客户)
-- 想记录某人的特点 / 喜好 / 跟你的关系历史
-- 某人跨多个项目 / 决定都涉及,需要 anchor
+- You interact with someone often (colleague / friend / family / client)
+- You want to record their traits / preferences / shared history with you
+- Someone shows up across multiple projects or decisions and needs an anchor
 
-## 命名约定
+## Naming convention
 
-- 文件名 = `<slug>.md`,kebab-case
-- 例:`me.md` / `mom.md` / `colleague-alice.md` / `client-bob.md`
-- slug 跟 filename 一致(不含 `.md`)
+- Filename = `<slug>.md`, kebab-case
+- e.g. `me.md` / `mom.md` / `colleague-alice.md` / `client-bob.md`
+- The slug matches the filename (without `.md`)
 
-## 例子
+## Examples
 
-见本目录下的 `example-self.md` 和 `example-colleague.md`。
+See `example-self.md` and `example-colleague.md` in this directory.
